@@ -1,16 +1,16 @@
 actors:
   alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+    image_url: https://pbs.twimg.com/profile_images/2783808101/febfc080cdfc4dadde67aa2af3906bf5_400x400.png
+    name: KANE
+    url: https://twitter.com/higuyume
   bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+    image_url: https://pbs.twimg.com/profile_images/760767791146291200/Z9YhxAtt_400x400.jpg
+    name: おしごとがんばるマン
+    url: https://twitter.com/info_collectman
+author: KANE
+description: おしごと界隈の人が話すラジオ
+description_long: おしごと界隈で活動しているおしごとがんばるマンさんをメインパーソナリティに、おしごと頑張りたい人の成長を応援するおしごと系エンジニアのKANEとおしごとに関するあれやこれやを語るラジオ
+email: higuyumekd@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: おしごと.am
 url: http://example.com
